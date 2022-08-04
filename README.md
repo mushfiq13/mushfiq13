@@ -7,6 +7,7 @@
 <h2> Profile Links </h2>
 
 <a href="https://github.com/mushfiq13" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" > </a>
+<a href="https://www.linkedin.com/in/mushfiq13/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" > </a>
 
 <!--
 **mushfiq13/mushfiq13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -31,7 +32,7 @@ Here are some ideas to get you started:
 <a href="https://instagram.com/aaman_007" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a>
 <a href="https://t.me/decayed007"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"> </a>
 <a href="https://www.polywork.com/aaman007"> <img src="https://img.shields.io/badge/polywork-543DE0?style=for-the-badge&logo=polywork&logoColor=white"> </a>
-<a href="https://linkedin.com/in/aaman007" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" > </a>
+
 <a href="https://youtube.com/channel/UC7LNW_qfJ4RGNSPeA1SxjfA"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"> </a>
 <a href="https://twitter.com/aaman_007"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"> </a>
 <a href="https://myanimelist.net/profile/aaman007" target="_blank"> <img src="https://img.shields.io/badge/Myanimelist-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white" > </a>
