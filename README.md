@@ -9,6 +9,11 @@
 <a href="https://github.com/mushfiq13" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" > </a>
 <a href="https://www.linkedin.com/in/mushfiq13/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" > </a>
 
+<h2> Stats </h2>
+
+![Mushfiq's GitHub stats](https://github-readme-stats.vercel.app/api?username=mushfiq13&show_icons=true&count_private=true&theme=great-gatsby) </br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mushfiq13&theme=great-gatsby&layout=compact)](https://github.com/mushfiq13)
+
 <!--
 **mushfiq13/mushfiq13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
