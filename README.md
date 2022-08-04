@@ -1,4 +1,12 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Mushfiq</h1>
+
+- 🌱 I’m currently learning **Python, Django and PostgreSQL**
+
+- 📫 How to reach me **mushfiq.rahman.4513@gmail.com**
+
+<h2> Profile Links </h2>
+
+<a href="https://github.com/mushfiq13" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" > </a>
 
 <!--
 **mushfiq13/mushfiq13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,14 +22,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<h1 align="center">Hi 👋, I'm Aaman</h1>
-
-- 🌱 I’m currently learning **Flask, Express and MongoDB**
-
-- 📫 How to reach me **aaman.sunny007@gmail.com**
 
 
-<h2> Profile Links </h2>
+
+
 
 <a href="https://facebook.com/aaman007.r" target="_blank"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" > </a>
 <a href="https://instagram.com/aaman_007" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a>
@@ -33,7 +37,7 @@ Here are some ideas to get you started:
 <a href="https://myanimelist.net/profile/aaman007" target="_blank"> <img src="https://img.shields.io/badge/Myanimelist-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white" > </a>
 <a href="https://medium.com/@aaman007" target="_blank"> <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"> </a>
 <a href="https://dev.to/aaman007" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /> </a>
-<a href="https://github.com/aaman-rahman" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" > </a>
+
 <a href="https://gitlab.com/aaman007" target="_blank"> <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" > </a>
 <a href="https://stackoverflow.com/users/8014119/amanur-rahman" target="_blank"> <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" > </a>
 <a href="https://codeforces.com/profile/aaman007"> <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"> </a>
