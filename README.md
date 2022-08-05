@@ -9,6 +9,17 @@
 <a href="https://github.com/mushfiq13" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" > </a>
 <a href="https://www.linkedin.com/in/mushfiq13/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" > </a>
 
+<h2> Skills </h2>
+
+<h4> Languages </h4>
+<span> 
+  <img src="https://img.shields.io/badge/CSharp-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">  
+</span>
+
+
 <h2> Stats </h2>
 
 ![Mushfiq's GitHub stats](https://github-readme-stats.vercel.app/api?username=mushfiq13&show_icons=true&count_private=true&theme=great-gatsby) </br>
@@ -64,7 +75,7 @@ Here are some ideas to get you started:
 
 
 
-<h2> Skills </h2>
+
 
 <h4> Languages </h4>
 <span> 
