@@ -19,6 +19,19 @@
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">  
 </span>
 
+<h4> Other Tools and Technologies </h4>
+<span>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
+  <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white">
+  <img src="https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
+</span>
+
 
 <h2> Stats </h2>
 
@@ -64,15 +77,6 @@ Here are some ideas to get you started:
 <a href="https://www.hackerrank.com/aaman007" target="_blank"> <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" > </a>
 <a href="https://linktr.ee/aaman007" target="_blank"> <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" > </a>
 <a href="https://aaman007.wordpress.com"> <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"> </a>
-
-
-
-
-<h2> Stats </h2>
-
-![Aaman's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaman007&show_icons=true&count_private=true&theme=great-gatsby) </br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaman007&theme=great-gatsby&layout=compact)](https://github.com/aaman007)
-
 
 
 
