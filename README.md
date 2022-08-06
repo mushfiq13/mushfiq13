@@ -6,14 +6,14 @@
 
 <h2> Profile Links </h2>
 
-<a href="https://github.com/mushfiq13" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" > </a>
-<a href="https://www.linkedin.com/in/mushfiq13/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" > </a>
+<a href="https://github.com/mushfiq13" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" ></a>
+<a href="https://www.linkedin.com/in/mushfiq13/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
 
 <h2> Skills </h2>
 
 <h4> Languages </h4>
 <span> 
-  <img src="https://img.shields.io/badge/C%23-86efac?style=for-the-badge&logo=c%23&logoColor=black">
+  <img src="https://img.shields.io/badge/C%23-#F56EB1?style=for-the-badge&logo=c%23&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">  
@@ -35,7 +35,8 @@
 
 <h2> GitHub Stats </h2>
 
-![Mushfiq's GitHub stats](https://github-readme-stats.vercel.app/api?username=mushfiq13&show_icons=true&count_private=true&theme=great-gatsby) </br>
+![Mushfiq's GitHub stats](https://github-readme-stats.vercel.app/api?username=mushfiq13&show_icons=true&count_private=true&theme=great-gatsby)
+</br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mushfiq13&theme=great-gatsby&layout=compact)](https://github.com/mushfiq13)
 
 <!--
