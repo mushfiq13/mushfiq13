@@ -34,7 +34,7 @@
 
 
 <h2> GitHub Stats </h2>
-![Github Stats](https://github-readme-stats.vercel.app/api?username=mushfiq13&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&count_private=true)
+![Mushfiq's GitHub stats](https://github-readme-stats.vercel.app/api?username=mushfiq13&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&count_private=true)
 
 
 <!--
