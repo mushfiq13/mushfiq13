@@ -35,9 +35,9 @@
 
 <h2> GitHub Stats </h2>
 
-![Mushfiq's GitHub stats](https://github-readme-stats.vercel.app/api?username=mushfiq13&show_icons=true&count_private=true&theme=great-gatsby)
+![Mushfiq's GitHub stats](https://github-readme-stats.vercel.app/api?username=mushfiq13&show_icons=true&count_private=true)
 </br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mushfiq13&theme=great-gatsby&layout=compact)](https://github.com/mushfiq13)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mushfiq13&layout=compact)](https://github.com/mushfiq13)
 
 <!--
 **mushfiq13/mushfiq13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
