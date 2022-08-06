@@ -34,8 +34,7 @@
 
 
 <h2> GitHub Stats </h2>
-![Aaman's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaman007&show_icons=true&count_private=true&theme=great-gatsby) </br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaman007&theme=great-gatsby&layout=compact)](https://github.com/aaman007)
+![Mushfiq's GitHub stats](https://github-readme-stats.vercel.app/api?username=mushfiq13&show_icons=true&count_private=true&theme=great-gatsby) </br>
 
 
 <!--
