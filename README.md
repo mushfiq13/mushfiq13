@@ -33,7 +33,6 @@
 </span>
 
 <h2> GitHub Stats </h2>
-
 ![Mushfiq's GitHub stats](https://github-readme-stats.vercel.app/api?username=mushfiq13&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&count_private=true)
 </br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mushfiq13&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=compact)](https://github.com/mushfiq13)
