@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mushfiq</h1>
 
-- 🌱 I’m currently learning **Python, Django and PostgreSQL**
-
 - 📫 How to reach me **mushfiq.rahman.4513@gmail.com**
 
 <h2> Profile Links </h2>
